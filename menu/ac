@@ -1,0 +1,6 @@
+#!/data/data/com.termux/files/usr/bin/bash
+ac="com.foxdebug.acodefree/com.foxdebug.acodefree.MainActivity>
+play -q $HOME/JARVIS/sound/oke.mp3 &>/dev/null
+play -q $HOME/JARVIS/sound/robot2.mp3 &>/dev/null
+am start -n $ac
+clear
