@@ -1,6 +1,6 @@
 # Tampilan Termux Nuansa Jarvis  
 
-![Tampilan Video](./a.mp4)  
+![Tampilan Video](a.mp4)  
 
 
 Proyek ini menampilkan **Termux** yang telah dimodifikasi agar memiliki nuansa seperti **Jarvis** dari film Iron Man. Berikut fitur dan konfigurasi utama yang digunakan.
